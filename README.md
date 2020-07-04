@@ -63,7 +63,7 @@ Before all the other stuff, maybe just some "basics", or maybe just take them as
 - Communication patterns/technologies - synchronous (e.g. HTTP requests, RPC) and asynchronous (e.g. queues, event hubs)
 - Idempotency
 - Job scheduling
-- Synchronous interaction resiliency patterns (circuit breakers, retries, timeouts, bulkhead isolation)
+- [Synchronous interaction resiliency patterns (circuit breakers, retries, timeouts, bulkhead isolation)](/topic-resources/synchronous-interaction-resiliency-patterns.md)
 - GraphQL (and probably other common REST alternatives)
 - Containers
 - Library packaging and sharing
