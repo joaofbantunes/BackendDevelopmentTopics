@@ -76,7 +76,7 @@ Before all the other stuff, maybe just some "basics", or maybe just take them as
 - DDD
 - Onion architecture/ports and adapters/hexagonal architecture/clean architecture
 - CQRS
-- Event sourcing
+- [Event sourcing](/topic-resources/event-sourcing.md)
 - Actor model
 - HATEOAS (part of REST, but people tend to ignore it)
 - Sharding
