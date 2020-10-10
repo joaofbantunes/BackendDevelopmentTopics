@@ -83,7 +83,7 @@ Before all the other stuff, maybe just some "basics", or maybe just take them as
 - Load balancing
 - Service discovery
 - Active/passive replicas
-- CAP theorem
+- [CAP theorem](/topic-resources/cap-theorem.md)
 - Back pressure
 - Two-phase commit
 - Distributed transactions
