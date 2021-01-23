@@ -87,7 +87,7 @@ Before all the other stuff, maybe just some "basics", or maybe just take them as
 - Back pressure
 - Two-phase commit
 - Distributed transactions
-- Saga
+- [Saga](/topic-resources/saga.md)
 - Process manager
 - Be aware about what’s going on regarding garbage collection / memory management
 
